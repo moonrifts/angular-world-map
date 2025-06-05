@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/styles.css"],
+  "sourcesContent": ["@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');\r\n\r\nbody {\r\n    font-family: 'Lato', sans-serif;\r\n}"],
+  "mappings": ";;;AAEA;AACI,eAAa,MAAM,EAAE;AACzB;",
+  "names": []
+}
