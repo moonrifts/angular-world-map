@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap');
+
+.map-container {
+    display: flex;
+    gap: 20px;
+}
+
+.map-col {
+    flex: 2;
+}
+
+.info-col {
+    flex: 1;
+}
+
+.info-panel {
+    padding: 15px;
+    background: black;
+    color: #efd5ef;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.info-panel p {
+    margin: 10px;
+}
+
+svg path {
+    cursor: pointer;
+}
+
+svg path:hover {
+    fill: plum;
+}
