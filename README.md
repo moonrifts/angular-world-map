@@ -1,3 +1,5 @@
+https://moonrifts.github.io/blah/
+
 ## Angular Setup Information
 Angular CLI: 19.2.14
 Node: 20.19.1
