@@ -1,4 +1,4 @@
-https://moonrifts.github.io/blah/
+https://moonrifts.github.io/angular-world-map/
 
 ## Angular Setup Information
 Angular CLI: 19.2.14
